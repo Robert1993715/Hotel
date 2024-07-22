@@ -20,7 +20,7 @@ A `Hotel Reservation System` named as `VBook`, coded in `Java and PHP`. Vendor a
     ```
     https://downloadsapachefriends.global.ssl.fastly.net/8.1.6/xampp-windows-x64-8.1.6-0-VS16-installer.exe?from_af=true
     ```
-2) Paste the folder named as `PHP_Files` present  in `C:\xampp\htdocs` folder.
+2) Paste the folder named as `PHP_Files` present  in here`https://github.com/Robert1993715/Hotel/blob/main/src/PHP_Files/C:\xampp\htdocs` folder.
 3) Open Xampp and `Run Apache and MySQL Services`.
 4) `Click on Admin Button` infront of MySQL Service and a new tab will open in the browser.
 5) `Create a Database` there with the name `hotel_reservation_application`.
@@ -31,5 +31,5 @@ A `Hotel Reservation System` named as `VBook`, coded in `Java and PHP`. Vendor a
 
 
 ### Contributors
-- [Sameet Asadullah](https://github.com/SameetAsadullah) 
+- [Robert Jensen](https://github.com/Robert1993715) 
 - [Tayyab Ali](https://github.com/DarkDragz)
